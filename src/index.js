@@ -8,7 +8,7 @@ ReactDOM.render(
   <StyledEngineProvider injectFirst>
     <p>
       {}
-      <img src={require("./ninite_top.png")} alt="Ninite" />
+      <img src={require("./ninite_top.gif")} alt="Ninite" />
       <SoftwareTabs
         software={[
           //web browsers
